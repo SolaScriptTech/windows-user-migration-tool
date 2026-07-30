@@ -1,0 +1,16 @@
+{
+  "destinationRoot": "C:\\MigrationBackups",
+  "folders": [
+    "Desktop",
+    "Documents",
+    "Downloads"
+  ],
+  "robocopyThreads": 16,
+  "optionalRegistryKey": "",
+  "roamingProfileAcl": {
+    "enabled": false,
+    "profilePathTemplate": "\\\\server.example.invalid\\profiles$\\%USERNAME%.v6",
+    "identity": "EXAMPLE\\Migration Administrators",
+    "rights": "(OI)(CI)F"
+  }
+}
